@@ -3,6 +3,8 @@ DnD Tool/Dungeon Tracker/RPG Level Editor C#
 
 Load using the 'Level Editor' executable
 
+Please make sure to click on the room before entering information because I am aware that there is a bug where trying to type new entries of information into the text boxes will pop an error. - I will try and make a fix to this.
+
 HEY!
 
 Playing Dungeons and Dragons and varius other RPG/TTPRPG over the years has made me realise that sometimes the life of a Dungeon Master is difficult(especially for lazy people like me).
